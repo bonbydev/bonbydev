@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bonby Tran 😎</h1>
-<h3 align="center">Full Stack Engineer 💻 || Passionate about coding, connecting with people, learning, and growing every day 🙌❤️ Excited to explore the future of AI and tech!</h3>
+<h3 align="center">Full Stack Engineer 💻 <br/> Passionate about coding, connecting with people, learning, and growing every day 🙌<br/>❤️ Excited to explore the future of AI and tech!</h3>
 
 
 - 🔭 I’m currently working on [Golden Owl](https://goldenowl.asia/)
