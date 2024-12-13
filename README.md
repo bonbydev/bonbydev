@@ -52,8 +52,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FE9901?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 # 📊 GitHub Stats:
-| ![stats graph](https://github-readme-stats.vercel.app/api?username=bonbydev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false) | ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=bonbydev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false) |
-|---|---|
+![stats graph](https://github-readme-stats.vercel.app/api?username=bonbydev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=bonbydev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 ###
 
