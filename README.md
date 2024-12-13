@@ -59,7 +59,10 @@
 
 <div style="display: flex;gap: 0.5rem;">
 <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img height="150" src="https://tenor.com/bCVbB.gif"  />
+<img height="150" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif"  />
+<img height="150" src="https://media.tenor.com/uQHOCWdnoeYAAAAi/astro-bot.gif"  />
+<img height="150" src="https://c.tenor.com/YjiuFd-KUVQAAAAd/tenor.gif"  />
+<img height="150" src="https://c.tenor.com/i0yKnyXZDNUAAAAd/tenor.gif"  />
 </div>
 
 ###
